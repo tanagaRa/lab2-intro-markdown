@@ -3,8 +3,6 @@
 ```
 $ git status
 ```
-# Plan of the work
-- [x] Get started
 - [x] Add an image
 - [x] Add a code line
 - [ ] Add a task list
